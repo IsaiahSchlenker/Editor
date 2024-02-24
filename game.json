@@ -1,0 +1,16 @@
+{
+    "start": ["You were beamed onto an alien ship and find yourself in a room with a door and a window.", "Try to break the window", "window", "Try opening the door", "door"], 
+    "quit": ["", "", "", "", ""], 
+    "window": ["You broke the window and were sucked into space, what did you expect to happen", "Quit", "quit", "Try again", "start"], 
+    "door": ["The door opened and you see an empty hallway, you hear sound coming from the right.", "Go right", "right", "Go left", "left"], 
+    "right": ["As you approach the sound, you find out it was coming from a ten foot tall alien", "Fight it", "fight", "Run", "run"], 
+    "left": ["To the left, you enter a large open space, you see the teleporter but there is an alien in the way", "Make a dash for it", "dash", "Create a distraction", "distraction"], 
+    "fight": ["You lost the fight miserably", "Quit", "quit", "Try again", "start"], 
+    "run": ["Turns out the aliens can run up to 30 mph so it caught you", "Quit", "quit", "Try again", "start"], 
+    "dash": ["The alien notices you and you die", "Quit", "quit", "Try again", "start"], 
+    "distraction": ["You find a metal scrap and throw it to make a distraction", "Check for more guards", "check", "Run for the teleporter", "teleporter"], 
+    "check": ["As you peak around a corner, an alien notices you and you die", "Quit", "quit", "Try again ", "start"], 
+    "teleporter": ["You make it to the teleporter right as the aliens are noticing you. You have two buttons, a red or a green button.", "Hit the green button", "green", "Hit the red button", "red"], 
+    "green": ["Congratulations you beamed down to the surface, you win!", "Quit", "quit", "Try again", "start"], 
+    "red": ["You have learned nothing from movies. The red button beamed you out to space and you died.", "Quit", "quit", "Try again", "start"]
+    }
